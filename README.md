@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 About Me
+## 👩🏽 About Me
 
 - 💡 I'm currently learning **HTML and CSS**.
 - 🎓 Soon, I'll be exploring **JavaScript**!
@@ -12,7 +12,7 @@
 - 🔥 Looking forward to building my first real-world application.
 
 ---
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 **Currently learning:**
 
